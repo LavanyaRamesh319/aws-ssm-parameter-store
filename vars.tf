@@ -1,1 +1,1 @@
-variable "parameter" {}
+variable "parameters" {}
