@@ -10,7 +10,7 @@ parameters = [
     {name = "dev.user.mongo", value = "MONGO=true" },
     {name = "dev.user.redis_host", value = "redis-dev.devopz1.online" },
     {name = "dev.user.mongo_url", value = "mongodb://mongodb-dev.devopz1.online:27017/users" },
-    {name = "dev.cart.redis_host", value = "redis-dev.devopz1.onlinee" },
+    {name = "dev.cart.redis_host", value = "redis-dev.devopz1.online" },
     {name = "dev.cart.catalogue_host", value = "catalogue-dev.devopz1.online" },
     {name = "dev.cart.catalogue_port", value = "8080" },
     {name = "dev.shipping.cart_endpoint", value = "cart-dev.devopz1.online:8080" },
